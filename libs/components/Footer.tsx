@@ -65,7 +65,7 @@ const Footer = () => {
         </Stack>
       </Stack>
       <Stack className="second">
-        <span>c Nestar - All rights reserved. Nestar 2024</span>
+        <span>&copy; Nestar - All rights reserved. Nestar 2024</span>
         <span>Privacy . Terms . Sitemap</span>
       </Stack>
     </Stack>
